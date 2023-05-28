@@ -1,0 +1,16 @@
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.exe.config
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.exe
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.pdb
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.exe
+C:\Users\Maz\source\repos\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.pdb
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.exe.config
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.exe
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\bin\Debug\BMI_Kalkylator.pdb
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.AssemblyReference.cache
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.csproj.CoreCompileInputs.cache
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.exe
+C:\Users\Maz\source\repos\downloaded\BMI_Kalk_NewVersion\BMI_Kalkylator\BMI_Kalkylator\obj\Debug\BMI_Kalkylator.pdb
